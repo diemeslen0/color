@@ -31,4 +31,4 @@ Diemesleno Souza Carvalho – [@diemesleno](https://twitter.com/diemesleno) – 
 
 Distributed under the ![AUR][gpl-image] license. 
 
-[https://github.com/diemeslen0/simetric](https://github.com/diemeslen0/)
+[https://github.com/diemeslen0/color](https://github.com/diemeslen0/)
